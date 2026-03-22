@@ -1,0 +1,8 @@
+﻿# Ignore everything except our config files
+*
+!app_base_url.txt
+!app_base_url.json
+!domains/
+!domains/*
+!.gitignore
+!README.md
